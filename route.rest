@@ -7,6 +7,6 @@ POST http://localhost:3000/subscribers
 Content-Type: :application/json
 
 {
-    "name":"amaan haider",
-    "subscribersToChannel":"Amaan youtube"
+    "name": "amaanhaider",
+    "subscribersToChannel":"Amaanyoutube"
 }
